@@ -1,4 +1,4 @@
-from search.binary_search import binary_search, binary_search_by_recursion
+from searching.binary_search import binary_search, binary_search_by_recursion
 import unittest
 
 class TestSearch(unittest.TestCase):
