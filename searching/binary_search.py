@@ -1,8 +1,6 @@
 """
-Binary Search
-
-Time Complexity: O(log(n))
-
+    Binary Search
+    Time Complexity: O(log(n))
 """
 
 def binary_search(sorted_array: list[int], target: int) -> int:

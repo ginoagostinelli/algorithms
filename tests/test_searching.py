@@ -1,7 +1,7 @@
 from searching.binary_search import binary_search, binary_search_by_recursion
 import unittest
 
-class TestSearch(unittest.TestCase):
+class TestSearching(unittest.TestCase):
 
     def test_binary_search(self):
         array = [1, 2, 2, 3, 4, 5, 5, 6, 7, 20]
